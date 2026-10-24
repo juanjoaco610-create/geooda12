@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["LLL", "GGG", " G "],
+  "key": {
+    "L": { "tag": "minecraft:logs" },
+    "G": { "item": "minecraft:glass" }
+  },
+  "result": { "item": "geooda1:heart_jar" }
+}
